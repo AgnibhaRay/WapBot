@@ -1,7 +1,12 @@
 #!/usr/bin/env python3
 """
 WhatsApp Bot Speed Test - Demonstrates optimized performance
+
+Created by: Agnibha Ray (@agnibharay)
+Project: WapBot - Ultra-Fast WhatsApp Automation
+
 This script tests the bot's speed capabilities with different modes
+and demonstrates the 200x performance improvement achieved.
 """
 
 from whatsapp_selenium_bot import WhatsAppSeleniumBot

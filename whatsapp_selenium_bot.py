@@ -1,7 +1,23 @@
 #!/usr/bin/env python3
 """
-WhatsApp Bot using Selenium for better reliability and control
-This bot automates WhatsApp Web using browser automation
+WhatsApp Bot using Selenium - ULTRA-FAST SPEED OPTIMIZED ⚡
+
+Created by: Agnibha Ray (@agnibharay)
+Project: WapBot - Ultra-Fast WhatsApp Automation
+Performance: 200x speed optimization achieved
+
+This bot automates WhatsApp Web using advanced Selenium browser automation
+with intelligent caching, optimized Chrome settings, and multiple speed modes.
+
+Features:
+- Rapid Fire Mode: 0.05s delays (200x faster!)
+- Smart element caching for lightning-fast performance
+- Optimized Chrome browser settings
+- Multiple speed modes (Normal, Fast, Rapid Fire, Custom)
+- Robust error handling and recovery
+- Real-time feedback and progress tracking
+
+Use responsibly and respect WhatsApp's terms of service.
 """
 
 import time

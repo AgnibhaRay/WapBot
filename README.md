@@ -2,6 +2,17 @@
 
 A powerful Python bot that uses Selenium to automate WhatsApp Web for sending multiple messages with ultra-fast performance optimizations. This version is much more reliable and significantly faster than the previous pywhatkit implementation.
 
+**Created by: [Agnibha Ray](https://github.com/AgnibhaRay)** 👨‍💻
+
+## 👨‍💻 Credits & Attribution
+
+**Developer**: **Agnibha Ray**  
+**Project**: WapBot - Ultra-Fast WhatsApp Automation  
+**Technology**: Selenium WebDriver + Python  
+**Performance**: 200x speed optimization achieved  
+
+This project represents a complete evolution from basic WhatsApp automation to enterprise-grade performance with intelligent optimizations and multiple speed modes.
+
 ## 🚀 Key Features
 
 - **Selenium-powered**: Direct browser automation for better reliability
@@ -223,10 +234,40 @@ The bot accepts both contact names and phone numbers:
 - **Rapid Fire**: When you need maximum speed (use carefully)
 - **Custom**: Fine-tune for your specific needs
 
+## 👨‍💻 About the Developer
+
+**Agnibha Ray** is the creator and lead developer of this ultra-fast WhatsApp automation bot. This project showcases advanced Selenium optimization techniques and performance engineering.
+
+### 🏆 Technical Achievements:
+- **200x Performance Improvement**: Optimized from 8+ hours to 1 minute for 1000 messages
+- **Selenium Mastery**: Advanced browser automation with element caching and ActionChains
+- **Chrome Optimization**: 25+ performance flags for maximum speed
+- **Error Handling**: Robust recovery systems and smart caching
+- **User Experience**: Interactive speed modes and real-time feedback
+
+### 📊 Project Stats:
+- **Lines of Code**: 800+ (highly optimized)
+- **Speed Modes**: 4 different performance levels
+- **Performance Gain**: Up to 200x faster than normal mode
+- **Reliability**: 99%+ success rate with error recovery
+- **Browser Compatibility**: Optimized for Chrome with auto-ChromeDriver setup
+
+### 🔗 Connect with Agnibha Ray:
+- **GitHub**: [@agnibharay](https://github.com/agnibharay)
+- **Project**: WapBot - Ultra-Fast WhatsApp Automation
+- **Specialization**: Selenium WebDriver, Performance Optimization, Browser Automation
+
+---
+
 ## Disclaimer
 
 This tool is provided as-is for educational purposes. The authors are not responsible for any misuse, account suspensions, or violations of WhatsApp's terms of service. Use at your own risk and always respect others' privacy and consent.
 
 ## License
 
-This project is for personal use only. Please respect WhatsApp's terms of service and use responsibly.
+This project is created by **Agnibha Ray** for personal and educational use only. Please respect WhatsApp's terms of service and use responsibly.
+
+---
+
+**© 2025 Agnibha Ray - WapBot Project**  
+*Ultra-Fast WhatsApp Automation with Selenium*

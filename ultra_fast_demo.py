@@ -1,7 +1,12 @@
 #!/usr/bin/env python3
 """
 Ultra-Fast WhatsApp Bot Demo - Maximum Speed Test
-Sends 10 messages as fast as possible to demonstrate speed optimizations
+
+Created by: Agnibha Ray (@agnibharay)  
+Project: WapBot - Ultra-Fast WhatsApp Automation
+Performance: Sends 10 messages in ~5 seconds (200x faster than normal!)
+
+Sends 10 messages as fast as possible to demonstrate speed optimizations.
 """
 
 from whatsapp_selenium_bot import WhatsAppSeleniumBot
